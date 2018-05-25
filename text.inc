@@ -20,8 +20,8 @@ opt_unknown     .byte "Unknown ?",0
 adr_title       .byte "Address:",0
 adr_nam1        .byte "Jens Christian",0
 adr_nam2        .byte "Restemeier",0
-adr_street      .byte "Bahnhofstra",19,"e 75",0
-adr_town        .byte "32257 B",18,"nde",0
+adr_street      .byte "XXXXXXXXXXXXX",0
+adr_town        .byte "XXXXXXXX",0
 adr_country     .byte "Germany",0
 adr_email       .byte "XXXXXXXXXXXX",0
 adr_print       .byte "Print",0
