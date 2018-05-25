@@ -2,7 +2,7 @@ This is the Game Boy demo I sent to Rare as part of my job application.
 
 I sent both a hacked cartridge and a CD with the source code:
 
-![Modified Game Boy cartridge](https://github.com/JensRestemeier/GameBoyDemo/pictures/gameboy.jpg)
+![Modified Game Boy cartridge](https://raw.githubusercontent.com/JensRestemeier/GameBoyDemo/master/pictures/gameboy.jpg)
 
 During development I used the textool socket to quickly replace the Flash chip with a new version.
 
